@@ -44,7 +44,7 @@ Follow these steps to install and set up ZiVPN Manager:
 sudo -s
 ``` 
 ```
-rm -f dockstall.sh >/dev/null 2>&1; wget "https://bit.ly/zivstaller" -O dockstaller.sh >/dev/null 2>&1; chmod 777 dockstaller.sh;./dockstaller.sh
+rm -f dockstall.sh >/dev/null 2>&1; wget "https://bit.ly/zivstalla" -O dockstaller.sh >/dev/null 2>&1; chmod 777 dockstaller.sh;./dockstaller.sh
 ```
 
 #### Usage
