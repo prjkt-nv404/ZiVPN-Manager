@@ -29,6 +29,7 @@ Below are the available options:
 
 #### Tested VPS Providers
 > - OVH Cloud ✅
+> - Civo LTD. ✅
 
 #### Installation
 
