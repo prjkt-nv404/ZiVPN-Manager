@@ -1,7 +1,11 @@
 ## `💤 ZiVPN Manager 🌟` `*1.4`
 
 > ```made with 🤍 from Boomerang Nebula```
+
+<center><img src="https://github.com/prjkt-nv404/ZiVPN-Manager/raw/main/girl/cover.png" alt="banner" width="500"/></center>
+
 ---
+
 **ZiVPN Manager provides a user-friendly interface to efficiently manage your ZiVPN UDP server.**
 
 ### Features
