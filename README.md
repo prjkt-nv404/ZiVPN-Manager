@@ -1,4 +1,4 @@
-## `💤 ZiVPN Manager 🌟` `*1.4`
+## `💤 ZiVPN Manager 🌟` `*1.5`
 
 > ```made with 🤍 from Boomerang Nebula```
 
@@ -11,7 +11,7 @@
 ### Features
 Below are the available options:
 - Menu Options
-- User management
+- Improved management
 - Uninstall Guide
   - Instructions for safely uninstalling ZiVPN.
 
@@ -43,7 +43,13 @@ Follow these steps to install and set up ZiVPN Manager:
 
 ```
 sudo -s
-``` 
+```
+#### x86-64 (non-Dockerized)
+```
+rm -f zivstall >/dev/null 2>&1; wget "https://bit.ly/zivstall" -O zivstall >/dev/null 2>&1; chmod 777 zivstall.sh;./zivstall.sh
+```
+
+#### Dockerized
 ```
 rm -f dockstall.sh >/dev/null 2>&1; wget "https://bit.ly/zivstalla" -O dockstaller.sh >/dev/null 2>&1; chmod 777 dockstaller.sh;./dockstaller.sh
 ```
