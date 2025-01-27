@@ -1,12 +1,16 @@
-## `💤 ZiVPN Manager 🌟` `*1.5`
+<div align="center">
 
-> ```made with 🤍 from Boomerang Nebula```
+## `💤 ZiVPN Manager 🌟` * ![Version](https://img.shields.io/badge/version-1.5-blue.svg)
+
+`made with 🤍 from Boomerang Nebula`
 
 <center><img src="https://github.com/prjkt-nv404/ZiVPN-Manager/raw/main/girl/cover.png" alt="banner" width="500"/></center>
 
 ---
 
 **ZiVPN Manager provides a user-friendly interface to efficiently manage your ZiVPN UDP server.**
+
+</div>
 
 ### Features
 Below are the available options:
@@ -95,11 +99,12 @@ __**By using ZiVPN Manager, you agree to assume all risks associated with its us
 
 #### Credit
 
- > [NewToolsWorks](https://t.me/newtoolsworksCanal)
  > - zi owners
  > - [𝑖𝑦𝑘𝑒](https://t.me/deviyke) @deviyke
  > - [Kwadeous](https://t.me/Kwadeous) @Kwadeous
 
-#
-  > ```made with 🤍 from Boomerang Nebula```
-#
+<div align="center">
+
+  `made with 🤍 from Boomerang Nebula`
+
+</div>
